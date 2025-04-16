@@ -1,0 +1,11 @@
+# Site settings
+title: Your Site Title
+description: A short description of your site
+url: "https://mayoflayo.github.io" # Your GitHub Pages URL
+
+# Theme settings
+theme: minima # Replace 'minima' with the Jekyll theme you'd like to use
+
+# Other settings
+plugins:
+  - jekyll-feed
